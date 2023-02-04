@@ -18,10 +18,10 @@ Live token number updting Application
 
 ## Team members
 
-1. Nithin Daniel [https://github.com/nithindaniel1]
-2. Abhishek V Gopal [https://github.com/abhishek-v-gopal]
-3. Arjun A Acharry [https://github.com/arjunaacharry]
-4. Arjun Santhosh [https://github.com/Arjunsanthosh09]
+1. [Nithin Daniel] (https://github.com/nithindaniel1)
+2. [Abhishek V Gopal] (https://github.com/abhishek-v-gopal)
+3. [Arjun A Acharry] (https://github.com/arjunaacharry)
+4. [Arjun Santhosh] (https://github.com/Arjunsanthosh09)
 
 
 <!-- ## Link to product walkthrough
